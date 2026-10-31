@@ -1,0 +1,5 @@
+numpy>=1.26
+gymnasium>=1.0
+pygame>=2.5
+moviepy>=2.0      # needed by gymnasium.wrappers.RecordVideo
+pytest>=8.0
